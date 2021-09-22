@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Pętle - zadania</h1>
+    <h2>Wypisz od 1 do 100</h2>
+    <pre>
+for(var i=0;i<100;i++) {
+    document.getElementById("wynik").innerHTML += i+"<br>";
+}</pre>
+<button id="test">Przetestuj</button>
+<div id="wynik"></div>
+<script>
+document.getElementById("test").addEventListener("click", testuj);
+function testuj() {
+    for(var i=0;i<100;i++) {
+        document.getElementById("wynik").innerHTML += i+"<br>";
+    }
+}
+</script>
+</body>
+</html>
