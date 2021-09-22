@@ -19,10 +19,18 @@
 }
 
 alert(osoba.mojeImieiNazwisko);
+
+osoba.imie = "Zbigniew";
+
+alert(osoba["imie"]);
 </pre>
-<button id="test">Przetestuj</button>
+<button id="test">Wyswietl imie i naziwsko</button><br>
+<button id="test2">Zmien imie</button><br>
+<button id="test3">Inny sposób odczytu</button>
 <script>
 document.getElementById("test").addEventListener("click", testuj);
+document.getElementById("test2").addEventListener("click", testuj2);
+document.getElementById("test3").addEventListener("click", testuj3);
 var osoba = {
     imie: "Jan",
     nazwisko: "Nowak",
@@ -33,6 +41,12 @@ var osoba = {
 }
 function testuj() {
     alert(osoba.mojeImieiNazwisko);
+}
+function testuj2() {
+    osoba.imie = "Zbigniew";
+}
+function testuj3() {
+    alert(osoba["imie"]);
 }
 </script>
 </body>
