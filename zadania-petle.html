@@ -10,18 +10,48 @@
     <h1>Pętle - zadania</h1>
     <h2>Wypisz od 1 do 100</h2>
     <pre>
-for(var i=0;i<100;i++) {
-    document.getElementById("wynik").innerHTML += i+"<br>";
+for(var i=1;i<=100;i++) {
+    document.getElementById("wynik").innerHTML += i+", ";
 }</pre>
 <button id="test">Przetestuj</button>
 <div id="wynik"></div>
 <script>
 document.getElementById("test").addEventListener("click", testuj);
 function testuj() {
-    for(var i=0;i<100;i++) {
-        document.getElementById("wynik").innerHTML += i+"<br>";
+    for(var i=1;i<=100;i++) {
+        document.getElementById("wynik").innerHTML += i+", ";
     }
 }
 </script>
+<h2>Wyświetl liczby od 5 do 50</h2>
+<pre>
+    for(var i=1;i<=100;i++) {
+        document.getElementById("wynik2").innerHTML += i+", ";
+    }</pre>
+    <button id="test2">Przetestuj</button>
+    <div id="wynik2"></div>
+    <script>
+    document.getElementById("test2").addEventListener("click", testuj);
+    function testuj() {
+        for(var i=1;i<=100;i++) {
+            document.getElementById("wynik2").innerHTML += i+", ";
+        }
+    }
+    </script>
+    <h2>Wyświetl liczby podzielne przez 8 w zakresie od 1 do 100</h2>
+    <pre>
+        for(var i=1;i<=100;i++) {
+            if(i%8==0) document.getElementById("wynik2").innerHTML += i+", ";
+        }</pre>
+        <button id="test3">Przetestuj</button>
+        <div id="wynik3"></div>
+        <script>
+        document.getElementById("test3").addEventListener("click", testuj);
+        function testuj() {
+            for(var i=1;i<=100;i++) {
+                if(i%8==0) document.getElementById("wynik3").innerHTML += i+", ";
+            }
+        }
+        </script>
 </body>
 </html>
