@@ -8,21 +8,21 @@
 </head>
 <body>
     <h1>Pętle</h1>
-    <h2>Deklaracja pętli while</h2>
+    <h2>Deklaracja pętli do...while</h2>
     <pre>var number = 0;
-while(number < 10) {
+do {
     alert("Numer: "+number);
     number++;
-}</pre>
+} while(number < 10) </pre>
 <button id="test">Przetestuj</button>
 <script>
 document.getElementById("test").addEventListener("click", testuj);
 function testuj() {
     var number = 0;
-    while(number < 10) {
+    do {
         alert("Numer: "+number);
         number++;
-    }  
+    } while(number < 10); 
 }
 </script>
 </body>
