@@ -10,15 +10,21 @@
     <h1>Pętle</h1>
     <h2>Deklaracja pętli for...in</h2>
     <pre>
-for(var number=0;number<10;number++) {
-    alert("Numer: "+number);
+var obiekt = { a: 1, b: 2, c: 3 };
+
+for (const property in obiekt) {
+    document.getElementById("wynik").innerHTML += `${property}: ${obiekt[property]}`+"<br>"; 
 }</pre>
 <button id="test">Przetestuj</button>
+<div id="wynik"></div>
 <script>
 document.getElementById("test").addEventListener("click", testuj);
+var obiekt = { a: 1, b: 2, c: 3 };
 function testuj() {
-    for(var number=0;number<10;number++) {
-        alert("Numer: "+number);
+    
+
+    for (const property in obiekt) {
+        document.getElementById("wynik").innerHTML += `${property}: ${obiekt[property]}`+"<br>"; 
     }
 }
 </script>
