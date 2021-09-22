@@ -13,11 +13,13 @@
     imie: "Jan",
     nazwisko: "Nowak",
     wiek: 20,
-    dzieci: NULL,
-    ksywa: undefined,
-    powiedz: function() { alert(powiedz); }
+    mojeImieiNazwisko: function() {
+        return this.imie +" "+ this.nazwisko;
+    }
 }
-osoba.powiedz("Dzień dobry");</pre>
+
+alert(osoba.mojeImieiNazwisko);
+</pre>
 <button id="test">Przetestuj</button>
 <script>
 document.getElementById("test").addEventListener("click", testuj);
@@ -25,10 +27,12 @@ var osoba = {
     imie: "Jan",
     nazwisko: "Nowak",
     wiek: 20,
-    powiedz: function() { alert("Dzien dobry"); }
+    mojeImieiNazwisko: function() {
+        return this.imie +" "+ this.nazwisko;
+    }
 }
 function testuj() {
-    osoba.powiedz;
+    alert(osoba.mojeImieiNazwisko);
 }
 </script>
 </body>
