@@ -39,7 +39,7 @@ if (isset($messages)) {
 }
 ?>
 
-<?php if (!isset($messages)){ ?>
+<?php if (isset($rate)){ ?>
 <div style="margin: 20px; padding: 10px; border-radius: 5px; background-color: #ff0; width:300px;">
 <?php 
 
