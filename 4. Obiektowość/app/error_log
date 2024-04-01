@@ -1,0 +1,303 @@
+[01-Apr-2024 21:35:05 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcForm as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:135
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_322720886660b0c69839e62_23789777->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje.pa in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 135
+[01-Apr-2024 21:45:04 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Class 'CalcCtrl' not found in /home1/mppl/aplikacje.pasierb.ski/4/app/calc.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/mppl/aplikacje.pasierb.ski/4/app/calc.php on line 6
+[01-Apr-2024 21:50:40 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_81413007660b0e8179ca39_61088199->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje.p in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:50:45 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:136
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_81413007660b0e8179ca39_61088199->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje.p in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 136
+[01-Apr-2024 21:50:51 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_81413007660b0e8179ca39_61088199->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje.p in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:50:55 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_81413007660b0e8179ca39_61088199->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje.p in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:19 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:20 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:20 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:20 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:21 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:21 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:21 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:22 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:22 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:22 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:23 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:23 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:23 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:24 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:24 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:24 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:25 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:25 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:25 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:25 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:26 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:31 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:32 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:32 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:51:33 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:141
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1586749831660b1037401f04_30344688->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:52:00 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:132
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1192963118660b10609cb1f5_33874179->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 132
+[01-Apr-2024 21:52:01 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:132
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1192963118660b10609cb1f5_33874179->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 132
+[01-Apr-2024 21:52:02 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:132
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1192963118660b10609cb1f5_33874179->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 132
+[01-Apr-2024 21:52:02 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:132
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1192963118660b10609cb1f5_33874179->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 132
+[01-Apr-2024 21:52:03 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:132
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1192963118660b10609cb1f5_33874179->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 132
+[01-Apr-2024 21:54:49 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:136
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_383569330660b11070629e4_58186157->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje. in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 136
+[01-Apr-2024 21:55:14 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Cannot use object of type CalcResult as array in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php:132
+Stack trace:
+#0 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(219): Block_1222227170660b11226f4ea3_21407435->callBlock()
+#1 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(162): Smarty_Internal_Runtime_Inheritance->callBlock()
+#2 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(164): Smarty_Internal_Runtime_Inheritance->process()
+#3 /home1/mppl/aplikacje.pasierb.ski/4/lib/smarty/sysplugins/smarty_internal_runtime_inheritance.php(136): Smarty_Internal_Runtime_Inheritance->process()
+#4 /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/9bc5d1f33b9274dc3a5f559b5c814f6bf2eb1d26_0.file.main.html.php(108): Smarty_Internal_Runtime_Inheritance->instanceBlock()
+#5 /home1/mppl/aplikacje in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 132
+[01-Apr-2024 21:57:56 Europe/Warsaw] PHP Notice:  Undefined property: CalcResult::$rate in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 141
+[01-Apr-2024 21:57:56 Europe/Warsaw] PHP Notice:  Undefined property: CalcResult::$cost in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 156
+[01-Apr-2024 21:57:56 Europe/Warsaw] PHP Notice:  Undefined property: CalcResult::$intrest in /home1/mppl/aplikacje.pasierb.ski/4/app/templates_c/6f24871cbbaaca6f8c7a4d21bd55f3f325608a2a_0.file.CalcView.html.php on line 158
